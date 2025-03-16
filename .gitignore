@@ -1,3 +1,4 @@
+.DS_Store
 c#/src/bin/
 c#/src/obj/
 node_modules/
